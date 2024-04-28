@@ -1,2 +1,4 @@
-# .github
-Entertainment and Software Cooperative
+# BLIGHTHOUSE
+## Entertainment and Software Cooperative
+
+Watch this space
